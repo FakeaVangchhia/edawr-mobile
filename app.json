@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "AirO Delivery",
+    "slug": "airo-delivery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.airo.delivery"
+    },
+    "android": {
+      "package": "com.airo.delivery"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
